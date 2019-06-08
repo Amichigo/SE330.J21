@@ -1,1 +1,2 @@
-# SE330.J21
+# android-school-project
+# android-school-project
